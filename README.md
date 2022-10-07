@@ -1,15 +1,16 @@
 
-Project Overview
+# Project Overview
 The PyCity School District requested the students' math and reading scores, along with the school information they attended, and the school types and school budget information. By using Python programming language and pandas library, the process of cleaning and examining the data in Jupyter Notebook was carried out.
-Resources
+# Resources
 •	Data Source: new_full_student_data.csv
 •	Software: Python 3.9.12
 Jupyter Notebook 6.4.8
 Pandas 1.4.2
-Results
+# Results
 In the Results section, you will see the tables of the examinations made and the examinations of the tables.
 Table 1. Students Information
- 
+<img width="737" alt="students_information" src="https://user-images.githubusercontent.com/26927158/194453311-eb2283b6-0e13-4f03-b4d1-c6e02148a65c.png">
+
 In the table above, the first five students are listed in line with the information obtained from the new_full student.csv file. 
 According to the information obtained from this table, it is seen that the student named Travis Martin is a 9th grade student, a Sullivan High school student, and the reading score is 59.0, the math score is 88.2, the school type is public, and the school budget is $961.125.
 Table 2.  Remove Null Rows 
