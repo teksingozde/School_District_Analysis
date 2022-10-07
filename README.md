@@ -5,11 +5,7 @@ The PyCity School District requested the students' math and reading scores, alon
 # Resources
 •	Data Source: new_full_student_data.csv
 
-•	Software: Python 3.9.12, 
-
-Jupyter Notebook 6.4.8, 
-
-Pandas 1.4.2
+•	Software: Python 3.9.12;  Jupyter Notebook 6.4.8;  Pandas 1.4.2
 
 # Results
 In the Results section, you will see the tables of the examinations made and the examinations of the tables.
